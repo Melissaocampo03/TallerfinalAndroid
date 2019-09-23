@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "207068709699",
+    "firebase_url": "https://tallermenu-1f178.firebaseio.com",
+    "project_id": "tallermenu-1f178",
+    "storage_bucket": "tallermenu-1f178.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207068709699:android:870d2be324adfd3907a5f6",
+        "android_client_info": {
+          "package_name": "com.example.tallermen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "207068709699-8dt8abt0d78uf1g6ms7n36pro9c7d55h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tallermen",
+            "certificate_hash": "aaf9c5ddfb0c2c05ad87adcf606be67bb844a3e7"
+          }
+        },
+        {
+          "client_id": "207068709699-l7m6fi04hvjk3g4612odsmj78gp7gvn0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnHYNsiUnr8TGVWCuq27BOO6NVZH4N5LE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "207068709699-l7m6fi04hvjk3g4612odsmj78gp7gvn0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
